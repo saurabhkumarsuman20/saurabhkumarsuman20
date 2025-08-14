@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabhkumarsuman20&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhkumarsuman20" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saurabhkumarsuman20" alt="saurabhkumarsuman20" /></a> </p>
 
 - 🌱 I’m currently learning **Google Cloud, Docker, Kubernetes, CI/CD Pipelines**
 
