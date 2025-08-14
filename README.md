@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **https://github.com/saurabhkumarsuman20**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
