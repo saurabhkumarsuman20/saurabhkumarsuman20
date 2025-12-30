@@ -28,16 +28,7 @@ I am passionate about **IoT, Blockchain, Cloud, and Software Development**, and 
 
 ---
 
-### 📂 Highlighted Projects
-| Project | Description | Link |
-|---------|-------------|------|
-| Snake Game | Nokia-style Snake game in Python terminal | [Repo](https://github.com/saurabhkumarsuman20/Snake_game) |
-| Weather App | Real-time weather information web app using API | [Repo](https://github.com/saurabhkumarsuman20/Weather_app) |
-| Morse Code Converter | Python tool to convert text to Morse code and vice versa | [Repo](https://github.com/saurabhkumarsuman20/MORSE_CODE_CONVERTER) |
 
-> Explore more in my [repositories](https://github.com/saurabhkumarsuman20?tab=repositories).
-
----
 
 ### 📈 GitHub Stats
 ![Saurabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=saurabhkumarsuman20&show_icons=true&theme=dark)
